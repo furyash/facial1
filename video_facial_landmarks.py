@@ -61,3 +61,7 @@ while True:
 # do a bit of cleanup
 cv2.destroyAllWindows()
 vs.stop()
+
+
+
+#python video_facial_landmarks.py -p shape_predictor_68_face_landmarks.dat
